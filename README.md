@@ -26,13 +26,9 @@ Assistente Virtual: Agendar compromissos, fazer reservas, fornecer informações
 
 Exemplo: Um cliente pede para agendar um horário no salão de beleza. O Chatbot agenda rapidinho! 💅
 
-Imagem de Chatbot agendando compromissos em calendário
-
 Geração de Leads: Coletar informações de contato de potenciais clientes, qualificar leads e aumentar suas vendas! 📈
 
 Exemplo: Um cliente demonstra interesse em um produto. O Chatbot coleta o telefone e email dele para a equipe de vendas entrar em contato. 📞
-
-Imagem de Chatbot coletando informações de contato
 
 🗺️ Onde ele funciona?
 
@@ -60,4 +56,3 @@ Temos planos para todos os bolsos, a partir de R$ [inserir valor] por mês. É m
 
 Entre em contato com a gente e descubra como nosso Chatbot Atendente Virtual pode transformar o seu negócio! 🚀
 [Inserir link para contato]
-Imagem de Chatbot sorrindo com fone de ouvido.
