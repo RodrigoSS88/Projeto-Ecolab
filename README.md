@@ -30,4 +30,4 @@ Temos planos para todos os bolsos, a partir de R$ [inserir valor] por mês. É m
 📞 Quer saber mais?
 Entre em contato com a gente e descubra como nosso Chatbot Atendente Virtual pode transformar o seu negócio! 🚀
 [Inserir link para contato]
-Imagem de Chatbot sorrindo com fone de ouvido
+Imagem de Chatbot sorrindo com fone de ouvido.
